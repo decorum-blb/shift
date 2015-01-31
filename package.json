@@ -1,6 +1,8 @@
 {
   "name": "shift",
   "version": "0.0.0",
+  "repository": "shift",
+  "author": ["Adam Edwards", "Sade Smith"],
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.1",
