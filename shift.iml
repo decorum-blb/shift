@@ -8,5 +8,6 @@
     <orderEntry type="library" name="shift node_modules" level="project" />
     <orderEntry type="library" name="gruntjs-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="jasmine-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="Node.js v0.10.35 Core Modules" level="application" />
   </component>
 </module>
