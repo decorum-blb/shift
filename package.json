@@ -36,14 +36,15 @@
     "karma-jasmine": "^0.2.2",
     "karma-junit-reporter": "^0.2.2",
     "karma-phantomjs-launcher": "^0.1.4",
+    "karma-requirejs": "^0.2.2",
     "load-grunt-tasks": "^0.4.0",
+    "requirejs": "^2.1.15",
     "time-grunt": "^0.3.1"
   },
   "engines": {
     "node": ">=0.10.0"
   },
-  "scripts":{
+  "scripts": {
     "test": "grunt test"
   }
-
 }
