@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="PhantomJS 1.9.8 (Windows 8)" package="" timestamp="2015-02-01T05:21:14" id="0" hostname="AdamLap" tests="0" errors="1" failures="0" time="0">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"/>
+    </properties>
+    <system-out><![CDATA[PhantomJS 1.9.8 (Windows 8) LOG: 'WARNING: Tried to load angular more than once.'
+
+]]></system-out>
+    <system-err/>
+  </testsuite>
+</testsuites>
